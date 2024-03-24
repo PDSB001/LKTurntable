@@ -8,11 +8,11 @@ public class PrizeModel {
     /**
      * 奖品名称
      */
-    private String name;
+    private String name;一个条件
     /**
      * 奖品的中奖率，0-1之间的浮点型
      */
-    private double chance;
+    private double chance;0
     /**
      * 奖品的剩余库存数量
      */
